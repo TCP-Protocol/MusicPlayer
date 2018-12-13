@@ -1,6 +1,6 @@
-MKOnlineMusicPlayer
+MusicPlayer
 ========
-MKOnlineMusicPlayer 是一款开源的基于 `Meting` 的在线音乐播放器。具有音乐搜索、播放、下载、歌词同步显示、个人网易云音乐播放列表同步等功能。
+MusicPlayer 是一款开源的基于 `Meting` 的在线音乐播放器。具有音乐搜索、播放、下载、歌词同步显示、个人网易云音乐播放列表同步等功能。
 
 前端界面参照 QQ 音乐网页版进行布局，同时采用了流行的响应式设计，无论是在PC端还是在手机端，均能给您带来原生 app 般的使用体验。
 
@@ -29,7 +29,7 @@ php 5.4+, curl_exec, file_get_contents, json_decode, openssl_encrypt
 本播放器设计支持 IE9及以上的现代浏览器。并且已在 Chrome、firefox、IE11 等浏览器测试使用正常。
 
 #### 版权
-本播放器由 [TCP-Protocol(https://www.dreamer520.top) 开发，您可以随意修改、使用、转载。使用或转载时`请务必保留出处`，抱拳了各位老铁们！
+本播放器由 [TCP-Protocol(https://www.tcp123.cn) 开发，您可以随意修改、使用、转载。使用或转载时`请务必保留出处`，抱拳了各位老铁们！
 
 #### 歌曲
 播放器中的歌曲来自各大音乐平台，歌曲版权归各大平台享有。请支持正版音乐。
@@ -40,7 +40,7 @@ php 5.4+, curl_exec, file_get_contents, json_decode, openssl_encrypt
 
 ### 常见问题
 -----
-[请前往 wiki 查阅](https://github.com/TCP-Protocol/MusicPlayer.git)
+[请前往 wiki 查阅](https://github.com/TCP-Protocol/MusicPlayer/tree/master/MKOnlineMusicPlayer-master)
 `遇到问题请详细阅读以上 wiki，已经进行解答的问题将不再回复！`
 
 ### 开发计划
@@ -54,7 +54,7 @@ php 5.4+, curl_exec, file_get_contents, json_decode, openssl_encrypt
 - 解决上面这些问题，需要花费很多时间与精力。支持项目继续完善下去，你也可以贡献一份力量！
 - 有了打赏，也就会有更新的动力 : )
 
-   ![](http://www.dreamer520.top)
+   ![](http://www.tcp123.cn)
 
 ### 更新日志
 -----
@@ -194,7 +194,7 @@ php 5.4+, curl_exec, file_get_contents, json_decode, openssl_encrypt
 
 #### 采用的开源模块
 - **Jquery**：js主流开发框架 [http://jquery.com/](http://jquery.com/)
-- **Meting**：一个高效的多平台音乐 API 框架 [https://github.com/metowolf/Meting](https://github.com/metowolf/Meting)
+- **Meting**：一个高效的多平台音乐 API 框架 
 - **layer**：一款强大的web弹层组件 [http://layer.layui.com/](http://layer.layui.com/)
 - **mCustomScrollbar**：jQuery自定义滚动条样式插件 [http://manos.malihu.gr/jquery-custom-content-scroller/](http://manos.malihu.gr/jquery-custom-content-scroller/)
 - **background-blur**：跨浏览器磨砂效果背景图片模糊特效插件 [https://msurguy.github.io/background-blur/](https://msurguy.github.io/background-blur/)
